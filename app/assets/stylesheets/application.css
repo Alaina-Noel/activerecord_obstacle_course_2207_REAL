@@ -13,3 +13,32 @@
  *= require_tree .
  *= require_self
  */
+
+ h1   {
+    font-size: 38pt;
+    font-style: italic;
+    color: chocolate ;
+ }
+
+ p {
+    font-size: 20pt;
+    color: coral ;
+ }
+
+ h3 {
+    font-size: 28pt;
+    color: coral ;
+ }
+
+ #edit  {
+    font-size: 12pt;
+    color: rgb(239, 192, 19) ;
+ }
+
+ #delete  {
+    font-size: 12pt;
+    color: rgb(239, 192, 19) ;
+    background-color: rgb(245, 245, 245);
+    /* border: 10px; */
+ }
+
